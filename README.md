@@ -1,12 +1,12 @@
-订阅转换配置文件链接：
+## clash防DNS泄露订阅转换规则
 
 
-https://subconfig.akatsuki.dpdns.org/ndl0.ini
-
-或者：
+### 订阅转换配置文件链接：
 
 
+https://subconfig.akatsuki.dpdns.org/ndl0.ini   
+或者：  
 https://subconfig.akatsuki.dpdns.org/NoDnsLeak.ini
 
 
-https://subconfig.akatsuki.dpdns.org/[文件名]
+ ` https://subconfig.akatsuki.dpdns.org/[文件名]`
