@@ -5,6 +5,9 @@
 
 
 https://subconfig.akatsuki.dpdns.org/ndl0.ini   
+
+https://subconfig.akatsuki.dpdns.org/ndl1.ini   
+
 或者：  
 https://subconfig.akatsuki.dpdns.org/NoDnsLeak.ini
 
