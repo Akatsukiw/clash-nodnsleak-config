@@ -4,9 +4,11 @@
 ### 订阅转换配置文件链接：
 
 
-https://subconfig.akatsuki.dpdns.org/ndl0.ini   
+https://subconfig.akatsuki.dpdns.org/ndl0.ini  
 
 https://subconfig.akatsuki.dpdns.org/ndl1.ini   
+
+https://subconfig.akatsuki.dpdns.org/ndl2.ini  
 
 https://subconfig.akatsuki.dpdns.org/4sub.ini  
 
